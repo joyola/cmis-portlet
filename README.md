@@ -18,6 +18,8 @@
 
 ## Road Map 
 
-* 1.0.1
-* * Remember current folder or file when page is reloaded
-* 
+* v1.0.1
+- Remember current folder or file when page is reloaded
+- Improved error messaging
+
+* v1.0.2
