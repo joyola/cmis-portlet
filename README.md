@@ -11,6 +11,7 @@
 * Open files in LibreOffice or OpenOffice
 * Download files from repository into local drive
 * See versions of a file entry
+* Full ajax navigator
 
 ##  Release Notes
 
@@ -19,8 +20,10 @@
 ## Road Map 
 
 * v1.0.1
-- Remember current folder or file when page is reloaded
-- Improved error messages
-- Suports for Alfresco 3
+  - Remember current folder or file when page is reloaded
+  - Improved error messages
 
 * v1.0.2
+  - Use thumsbail image for files
+  - Suports for Alfresco 3
+  - Suports for Nuxeo
