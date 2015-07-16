@@ -33,8 +33,7 @@
   - Suports for Alfresco 3
   - Suports for Nuxeo
 
-#Resources
+## Resources
 
 * Wiki: https://github.com/joyola/cmis-portlet/wiki
 * Issues: https://github.com/joyola/cmis-portlet/issues
-
