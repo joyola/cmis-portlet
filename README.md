@@ -20,12 +20,15 @@
 ## Road Map 
 
 * v1.0.1
-  - Remember current folder or file when page is reloaded
-  - Improve error messages
-  - Improve navigation experience
+  - Remember current entry when page is reloaded
+  - Improve navigation experience and error messages
+  - Compatibility for Liferay EE
 
 * v1.0.2
-  - Use thumsbail image for files
-  - Compatibility for Liferay EE
+  - Use thumbnail image for files
+  - Upload multiple files
+  - Run Bulk actions
+
+* v1.0.3
   - Suports for Alfresco 3
   - Suports for Nuxeo
