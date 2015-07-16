@@ -20,6 +20,7 @@
 
 * v1.0.1
 - Remember current folder or file when page is reloaded
-- Improved error messaging
+- Improved error messages
+- Suports for Alfresco 3
 
 * v1.0.2
