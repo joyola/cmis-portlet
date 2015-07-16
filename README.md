@@ -21,7 +21,8 @@
 
 * v1.0.1
   - Remember current folder or file when page is reloaded
-  - Improved error messages
+  - Improve error messages
+  - Improve navigation experience
 
 * v1.0.2
   - Use thumsbail image for files
