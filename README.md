@@ -25,5 +25,6 @@
 
 * v1.0.2
   - Use thumsbail image for files
+  - Compatibility for Liferay EE
   - Suports for Alfresco 3
   - Suports for Nuxeo
