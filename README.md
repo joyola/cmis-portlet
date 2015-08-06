@@ -19,12 +19,13 @@
 
 ## Road Map 
 
-* v1.0.1
+* v1.0.1 (08/31/1015)
   - Remember current entry when page is reloaded
   - Improve navigation experience and error messages
   - Compatibility for Liferay EE
 
-* v1.0.2
+* v1.0.2 (09/21/2015)
+  - Preview PDF files with invalid characters
   - Use thumbnail image for files
   - Upload multiple files
   - Run Bulk actions
